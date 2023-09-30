@@ -1,0 +1,10 @@
+{
+  "hyperparameters":
+  {
+    "hidden_size": "64",
+    "batch_size": "64",
+    "num_epochs": "300",
+    "lr": "0.01"
+  },
+  "data": "C:\\Users\\User\\Desktop\\datasets\\bbs_text\\bbc-text.csv"
+}
